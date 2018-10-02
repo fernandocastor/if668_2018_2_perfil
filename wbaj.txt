@@ -1,0 +1,36 @@
+
+Licenças
+Modelos das cartas para o trabalho de IC. Modelo elaborado por Pedro Caminha. Esse modelo pode ser redistribuído de acordo com a licença CreativeCommons-Attribution-ShareALike 3.0. Mais informações em https://creativecommons.org/licenses/by-sa/3.0/br/.
+https://github.com/fernandocastor/IcModeloCarta/blob/master/README.md
+
+- - - - - - - - - - - - - - - - -
+Primeira tela touchscreen da história (Evento). Páginas visitadas em 29.set.2018
+
+https://www.tecmundo.com.br/touchscreen/42036-a-historia-das-telas-touchscreen.htm
+https://en.wikipedia.org/wiki/Touchscreen
+https://www.iam-media.com/patents/smart-phone-technology-peek-behind-screen
+https://www.bloomberg.com/profiles/people/2019541-nimish-mehta
+
+- - - - - - - - - - - - - - - - -
+FORTRAN (Coisa). Páginas visitadas em 30.set.2018
+
+https://pt.wikipedia.org/wiki/Fortran
+https://web.fe.up.pt/~aarh/pc/PC-capitulo2.pdf
+https://www.eq.uc.pt/~batateu3/introd.html
+https://www.google.com.br/search?q=translate&rlz=1C1SQJL_pt-BRBR817BR817&oq=translate&aqs=chrome.0.0l6.1742j0j7&sourceid=chrome&ie=UTF-8
+https://pt.wikipedia.org/wiki/John_Backus
+
+- - - - - - - - - - - - - - - - -
+Claude Shannon (Pessoa). Páginas visitadas em 30.set.2018
+
+http://www2.ee.ufpe.br/codec/ClaudeElwoodShannon.html
+https://exame.abril.com.br/economia/e-brincando-que-se-trabalha/
+https://pt.wikipedia.org/wiki/Claude_Shannon
+
+- - - - - - - - - - - - - - - - -
+Desenvolvimento do algoritmo de compressão MPEG áudio layer 3 (MP3). Páginas visitadas em 01.out.2018
+
+https://wiki.sj.ifsc.edu.br/wiki/index.php/MP3_(Artigo_Completo)
+https://olharesdomundo.com.br/era-do-streaming/
+https://pt.wikipedia.org/wiki/Napster
+http://origemdascoisas.com/a-origem-do-mp3/
