@@ -1,0 +1,29 @@
+FONTES:
+
+Primeiro filme feito inteiramente no computador:
+
+https://www.imdb.com/title/tt0114709/trivia
+http://www.adorocinema.com/filmes/filme-14264/curiosidades/
+https://www.debian.org/releases/
+
+Computador derrota um campeão mundial de Go:
+
+https://blog.google/technology/ai/alphago-machine-learning-game-go/
+https://link.estadao.com.br/noticias/cultura-digital,apos-vencer-campeao-de-go-computador-do-google-vai-se-aposentar,70001817671
+https://super.abril.com.br/tecnologia/campeao-mundial-de-go-perde-por-muito-pouco-para-robo-do-google/
+https://oglobo.globo.com/sociedade/tecnologia/computador-do-google-derrota-jovem-genio-chines-em-jogo-de-tabuleiro-21379429
+
+Photshop:
+
+http://revistagalileu.globo.com/Revista/Common/0,,EMI122591-17770,00-PHOTOSHOP+FAZ+ANOS+VEJA+CASOS+QUE+ENTRARAM+PARA+A+HISTORIA.html
+https://www.photoshop.com/products
+https://www.tecmundo.com.br/photoshop/37907-a-historia-do-photoshop-o-editor-de-imagens-mais-usado-no-mundo.htm
+https://www.techtudo.com.br/noticias/noticia/2015/02/photoshop-faz-25-anos-relembre-a-historia-do-editor-de-fotos.html
+
+Problema dos Generais Bizantinos:
+
+https://imasters.com.br/back-end/como-o-bitcoin-forca-o-consenso-entre-os-generais-bizantinos
+https://homepages.dcc.ufmg.br/~loureiro/alg/092/ad0_ModeloComputacional.pdf
+http://www.macedo.ufba.br/generais%20bizantinos.pdf
+http://www.cin.ufpe.br/~if677/site/slides/2010.2/ComunicacaoI+II.pdf
+https://sites.google.com/site/sisdisfernandoedvaldo/problema-dos-generais-bizantinos
