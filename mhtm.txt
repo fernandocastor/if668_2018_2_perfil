@@ -1,0 +1,10 @@
+Anvenção da World Wide Web
+Arquitetura RISC
+Editor de texto GNU Emacs
+Internet
+
+Sites de pesquisa :
+https://pt.wikipedia.org/wiki/RISC#RISC_inicial
+https://pt.wikipedia.org/wiki/GNU_Emacs
+http://www.ufpa.br/dicas/net1/int-h194.htm
+https://pt.wikipedia.org/wiki/Hist%C3%B3ria_da_World_Wide_Web
