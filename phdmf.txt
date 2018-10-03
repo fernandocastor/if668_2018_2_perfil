@@ -1,0 +1,29 @@
+===== Arquitetura de von Neumann =====
+https://www.youtube.com/watch?v=V5qE-u6jGo4
+https://www.embarcados.com.br/arquitetura-de-john-von-neumann/
+https://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann
+https://citacoes.in/autores/john-von-neumann/
+https://pt.wikibooks.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_Arquitetura_de_Computadores/Modelo_de_Von_Neumann
+
+
+
+===== Charles Babbage =====
+Livro: Os Inovadores - Walter Isaacson
+https://pt.wikipedia.org/wiki/Charles_Babbage
+https://www.somatematica.com.br/biograf/babbage.php
+https://www.tecmundo.com.br/historia/16641-charles-babbage-um-cientista-muito-alem-de-seu-tempo.htm
+
+
+
+===== Criação do CSS =====
+https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/#gref
+https://pt.wikipedia.org/wiki/Cascading_Style_Sheets
+https://tableless.com.br/uma-breve-historia-do-css/
+https://www.weblink.com.br/blog/programacao/o-que-e-css/
+
+
+
+===== Hipertexto ===== 
+https://pt.wikipedia.org/wiki/Hipertexto
+https://www.todamateria.com.br/o-que-e-hipertexto/
+https://www.pucsp.br/~cimid/4lit/longhi/hipertexto.htm
