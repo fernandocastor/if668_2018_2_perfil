@@ -1,0 +1,26 @@
+(1) Surgimento do termo "Inteligência Artificial" (Evento).
+ 
+ -https://tecnoblog.net/195106/inteligencia-artificial-historia-dilemas/
+ -https://seuhistory.com/noticias/manuscrito-em-lingua-desconhecida-pode-ser-decifrado-com-inteligencia-artificial
+ -https://olhardigital.com.br/noticia/john_mccarthy_criador_do_termo_inteligencia_artificial_morre_aos_85_anos/21599
+ -https://australianmuseum.net.au/image/noel-gordon-co-inventor-of-google-maps
+
+
+(2) Lançamento do Google Maps (Evento).
+
+ -https://www.techtudo.com.br/noticias/noticia/2015/02/google-maps-faz-10-anos-confira-linha-do-tempo-da-plataforma-  online.html
+ -https://seuhistory.com/hoje-na-historia/lancado-o-google-maps
+ -https://medium.com/brasil/a-historia-nao-contada-sobre-o-inicio-do-google-maps-a691e8c70400
+
+
+(3) Linguagem JavaScript(Coisa).
+
+ -https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/O_que_e_JavaScript
+ -https://canaltech.com.br/internet/O-que-e-e-como-funciona-a-linguagem-JavaScript/
+
+
+(4) Cloud Computing(Coisa).
+
+ -https://www.salesforce.com/br/blog/2016/02/o-que-e-cloud-computing.html
+ -https://www.techtudo.com.br/artigos/noticia/2012/03/o-que-e-cloud-computing.html
+ -https://www.ipm.com.br/blog/historia-da-computacao-em-nuvem-como-surgiu-a-cloud-computing/
