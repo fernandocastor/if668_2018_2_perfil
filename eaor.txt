@@ -1,0 +1,28 @@
+## Unicode
+https://www.devmedia.com.br/unicode-conceitos-basicos/25169
+https://www.twilio.com/docs/glossary/what-is-unicode
+http://unicode.org/consortium/consort.html
+https://www.unicode.org/history/versionone.html
+https://www.unicode.org/history/unicode88.pdf
+https://www.unicode.org/history/earlyyears.html
+http://unicode.org/emoji/
+https://www.unicode.org/history/publicationdates.html
+https://www.unicode.org/consortium/levels.html
+
+## Eu sou George Boole
+https://www.somatematica.com.br/biograf/boole.php
+https://educalingo.com/pt/dic-pt/booleano
+http://www.matematica.br/historia/boole.html
+https://brasilescola.uol.com.br/biografia/george-boole.htm
+
+## Criação do Android
+https://tecnoblog.net/261503/dez-anos-android-historia/
+https://gizmodo.uol.com.br/android-10-anos/
+https://www.openhandsetalliance.com/oha_faq.html
+
+## Eu sou o HTML
+https://tableless.com.br/o-que-html-basico/
+https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Introducao_ao_HTML/Getting_started
+https://www.w3.org/TR/2014/REC-html5-20141028/
+https://www.w3.org/standards/webdesign/htmlcss
+http://www.frontendbrasil.com.br/artigos/a-historia-do-html/
