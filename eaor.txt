@@ -7,7 +7,10 @@ https://www.unicode.org/history/unicode88.pdf
 https://www.unicode.org/history/earlyyears.html
 http://unicode.org/emoji/
 https://www.unicode.org/history/publicationdates.html
+<<<<<<< HEAD
 https://www.unicode.org/consortium/levels.html
+=======
+>>>>>>> 83d742e53ea909185fb5f1cdc1bc782659054d5f
 
 ## Eu sou George Boole
 https://www.somatematica.com.br/biograf/boole.php
