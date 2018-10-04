@@ -1,0 +1,22 @@
+1 - Invenção do algoritmo QuickSort por Tony Hoare
+
+
+
+2 - Linguagem C
+
+http://linguagemc.com.br/breve-historia-da-linguagem-c/
+https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)
+https://pt.wikibooks.org/wiki/Programar_em_C/Hist%C3%B3ria_da_linguagem_C
+
+3 - Vírus WannaCry infecta o mundo
+
+
+
+4 - Protocolo TCP/IP
+
+
+
+Licença : Modelos das cartas para o trabalho de IC.
+Modelo elaborado por Pedro Caminha.
+Esse modelo pode ser redistribuído de acordo com a licença CreativeCommons-Attribution-ShareALike 3.0.
+Mais informações em https://creativecommons.org/licenses/by-sa/3.0/br/.
