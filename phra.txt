@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Lua_(programming_language)
+https://www.lua.org/about.html
+https://en.wikipedia.org/wiki/Lisp_(programming_language)
+https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable
+https://en.wikipedia.org/wiki/Stack_Overflow
