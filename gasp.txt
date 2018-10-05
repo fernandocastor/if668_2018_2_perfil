@@ -1,5 +1,8 @@
 1 - Invenção do algoritmo QuickSort por Tony Hoare
 
+https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/tony-hoare/quicksort.html
+https://en.wikipedia.org/wiki/Quicksort#History
+https://pt.wikipedia.org/wiki/Quicksort
 
 
 2 - Linguagem C
@@ -8,12 +11,20 @@ http://linguagemc.com.br/breve-historia-da-linguagem-c/
 https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)
 https://pt.wikibooks.org/wiki/Programar_em_C/Hist%C3%B3ria_da_linguagem_C
 
+
 3 - Vírus WannaCry infecta o mundo
 
+https://pt.wikipedia.org/wiki/WannaCry
+https://www.theguardian.com/technology/2017/may/13/accidental-hero-finds-kill-switch-to-stop-spread-of-ransomware-cyber-attack
+https://tecnologia.uol.com.br/noticias/redacao/2018/05/05/wannacry-apos-um-ano-ainda-nao-brecaram-o-maior-ciberataque-da-historia.htm
+https://d335luupugsy2.cloudfront.net/cms/files/9568/1507148257WannaCry_Threat-Reportd.pdf
 
 
 4 - Protocolo TCP/IP
 
+https://pt.wikipedia.org/wiki/TCP/IP
+https://paginas.fe.up.pt/~mrs01003/TCP_IP.htm
+https://www.citisystems.com.br/protocolo-tcp-ip/
 
 
 Licença : Modelos das cartas para o trabalho de IC.
