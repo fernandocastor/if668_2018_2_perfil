@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+
+\title{IF674 - Infra-Estrutura de Hardware}
+\author{Francisco Marcos Lira do Nascimento}
+\date{October 2018}
+
+\usepackage{natbib}
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\begin{document}
+
+\maketitle
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=.5\textwidth]{c}
+  \caption{}\cite{c}
+\end{figure}
+
+\section{Introduction}
+O dicipliana Infra-Estrutura de Hardware tem como objetivo prover uma visão geral dos componentes do computador como processador, sistema de memória(memória principal e memória cache),Entrada e Saída e Barramentos\citep{a}
+
+\section{Relevância}
+Além dos conceitos básicos, serão apresentados conceitos avançados como pipeline e super-escalares, técnicas usadas nos processadores comerciais atuais e que garantem um grande aumento no desempenho da máquina. Neste curso o aluno conhecerá as principais tecnologias de memória e o princípio de funcionamento de cada uma delas.
+
+\section{Bibliografia}
+\begin{enumerate}
+\item Computer Organization and Design RISC-V Edition - The Hardware Software Interface - David Patterson e John Hennessy\cite{b}
+\item Arquitetura e Organização de Computadores: William Stallings \cite{d}
+
+\end{enumerate}
+
+\section{}
+
+\begin{table}[h]
+ \centering
+% distancia entre a linha e o texto
+ {\renewcommand\arraystretch{1.25}
+ \caption{A sample table}
+ \begin{tabular}{ 1 1  }
+  \cline{1-1}\cline{2-2}  
+    \multicolumn{1}{|p{3.850cm}|}{\cellcolor{}Column 1 \centering } &
+    \multicolumn{1}{p{8.217cm}|}{\cellcolor{}Column 2 \centering }
+  \\  
+  \cline{1-1}\cline{2-2}  
+    \multicolumn{1}{|p{3.850cm}|}{IF675 - Sistemas Digitais} &
+    \multicolumn{1}{p{8.217cm}|}{O curso de Sistemas Digitais visa dar ao aluno conhecimentos de circuitos lógicos digitais combinacionais e seqüenciais cobrindo desde dispositivos digitais de pequena complexidade SSI, até a implementação de circuitos de média complexidade MSI}
+  \\  
+  \cline{1-1}\cline{2-2}  
+    \multicolumn{1}{|p{3.850cm}|}{IF677 - Infra-Estrutura de Software \raggedleft } &
+    \multicolumn{1}{p{8.217cm}|}{  Este curso faz parte da tríade hardware, software e comunicação, que é a base da construção de praticamente qualquer sistema de computação atual. O objetivo aqui é apresentar os conceitos e sistemas de software básicos de um computador, que compreende a introdução aos sistemas concorrentes e aos sistemas operacionais, sejam eles mono-computador ou distribuídos.}
+  \\  
+  \hline
+
+ \end{tabular} }
+\end{table}
+
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+
+
+\end{document}
