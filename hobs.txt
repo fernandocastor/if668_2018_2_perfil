@@ -1,0 +1,35 @@
+PDP-8:
+https://www.tecmundo.com.br/tecnologia-da-informacao/1697-a-historia-dos-computadores-e-da-computacao.htm
+https://mundodarobotica.wordpress.com/2016/08/03/pdp-8/
+https://sites.google.com/site/pujuca2/MduloI-VisoGeraldosSOs.pdf
+https://dialnet.unirioja.es/descarga/articulo/6067090.pdf
+http://homepage.divms.uiowa.edu/~jones/pdp8/
+https://pt.wikipedia.org/wiki/PDP-8
+https://www.pdp8.net/
+
+Computador Z3:
+http://www.webvrbrasil.com.br/proffilipearantes/wp-content/uploads/2017/02/1-Aula-01-v0.0.pdf
+http://redeetec.mec.gov.br/images/stories/pdf/eixo_gest_neg/informatica/061112_infor_a01.pdf
+http://www.inf.furb.br/~maw/arquitetura_8088/7047549-Cpu-Process-Adores.pdf
+http://www.facom.ufms.br/~montera/progiv2.pdf
+https://www.engquimicasantossp.com.br/2015/09/konrad-zuse-e-os-primeiros-computadores.html
+http://ptcomputador.com/Ferragens/computer-drives-storage/47479.html
+https://www.dw.com/pt-br/konrad-zuse-inventor-do-computador-completaria-100-anos/a-5717263
+http://www.ufpa.br/dicas/net1/int-h194.htm
+https://pt.wikipedia.org/wiki/Z3
+
+Braço robótico:
+http://www.cimautomacao.com.br/lp/braco-robotico-industrial.php
+http://www.roboliv.re/conteudo/braco-robotico
+https://www.tecmundo.com.br/robotica/104771-braco-robotico-darpa-controlado-mente-movimentacao-impressiona.htm
+http://sistemaolimpo.org/midias/uploads/387cc537d243e31b56859421336810a0.pdf
+http://www.ideafixa.com/oldbutgold/braco-mecanico-dos-anos-1950
+https://blog.usinainfo.com.br/braco-robotico-para-arduino/
+https://www.ebah.com.br/content/ABAAABS20AE/apostila-braco-mecanico
+
+Primeira máquina de datilografia:
+https://pt.wikipedia.org/wiki/M%C3%A1quina_de_escrever
+https://www.oficinadanet.com.br/post/11116-maquina-de-escrever
+https://www.portalsaofrancisco.com.br/historia-geral/historia-da-maquina-de-escrever
+http://grafnorte.com.br/historia-maquina-escrever/
+
