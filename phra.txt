@@ -1,0 +1,12 @@
+Carta Lua:
+https://en.wikipedia.org/wiki/Lua_(programming_language)
+https://www.lua.org/about.html
+
+Carta Lisp:
+https://en.wikipedia.org/wiki/Lisp_(programming_language)
+
+Carta Cabos Transatlânticos:
+https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable
+
+Carta Stack_Overflow:
+https://en.wikipedia.org/wiki/Stack_Overflow
