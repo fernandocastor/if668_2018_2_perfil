@@ -1,1 +1,0 @@
-Repositório do trabalho de IF668 - Introdução à Computação sobre História da Computação, jogo Perfil. Neste repo encontram-se os trabalhos dos alunos. 
