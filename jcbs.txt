@@ -1,0 +1,51 @@
+
+
+Universidade Federal de Pernambuco - Campus Recife
+Aluna: Jennifer Cristine Batista da Silva
+Disciplina: Introdução à Computação - I1 - IF668 - 2018.2
+Professor: Fernando Castor
+
+
+ Fontes de Consultas Utilzadas nas Cartas por Categorias
+
+ AVANÇO CIENTÍFICO - Primeira vez que um teorema matemático foi provado usando computadores.
+ https://pt.wikipedia.org/wiki/Prova_assistida_por_computador
+ https://books.google.com.br/books?id=8j0u2tKRwgEC&pg=PA225&lpg=PA225&dq=computador+primeiro+teorema+matematico&source=bl&ots=HyqdIj1uhw&sig=NQOOV-rULZ3wGSpUx57s4W6NsMM&hl=pt-BR&sa=X&ved=2ahUKEwjO6ImHguTdAhUGfpAKHfcDARAQ6AEwCHoECAAQAQ#v=onepage&q=computador%20primeiro%20teorema%20matematico&f=false
+ https://www.tecmundo.com.br/matematica/16217-quando-foi-a-primeira-vez-que-usamos-um-computador-para-realizar-um-calculo-matematico-.htm
+ http://www.teses.usp.br/teses/disponiveis/55/55136/tde-26112016-112047/publico/CarlosLaercioGomesdeLima_revisada.pdf
+ https://www.atractor.pt/matviva/geral/t5cores/T4C.htm
+ http://www.ipv.pt/millenium/Millenium24/12.pdf
+ http://www.wikiwand.com/pt/Teorema_das_quatro_cores#/overview
+
+ PESSOA - Edsger Dijkstra.
+ http://www.dsc.ufcg.edu.br/~pet/jornal/fevereiro2012/materias/historia_da_computacao.html
+ https://pt.wikipedia.org/wiki/Edsger_Dijkstra
+ https://pt.wikipedia.org/wiki/Algoritmo_de_Dijkstra
+ https://pt.wikipedia.org/wiki/Problema_do_caminho_m%C3%ADnimo
+ https://pt.wikipedia.org/wiki/Sem%C3%A1foro_(computa%C3%A7%C3%A3o)
+ https://inf.ufes.br/~pdcosta/ensino/2008-1-sistemas-operacionais/Slides/Aula12-4slides.pdf
+
+ EVENTO - Digital Millennium Copyright Act aprovado como lei.
+ https://www.copyright.gov/legislation/dmca.pdf
+ https://pt.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
+ https://br.giganews.com/legal/dmca.html
+ https://pt.phhsnews.com/what-is-dcma-and-why-does-it-take-down-web-pages2560
+ https://help.vimeo.com/hc/pt/articles/229676168-O-que-%C3%A9-DMCA-
+ https://www.bittorrentvpn.com/pt/notificacao-dmca/
+ https://books.google.com.br/books?id=e0ugbMCUsvgC&pg=PA83&lpg=PA83&dq=A+tecnologia+digital+precisou+de+uma+nova+legisla%C3%A7%C3%A3o+de+direitos+autorais,+o+chamado+Ato+de+Direitos+Digitais+do+Mil%C3%AAnio&source=bl&ots=h6VbnTB9_t&sig=4GXIpcki9I_u_-Lq6CwIJrIE95Y&hl=pt-BR&sa=X&ved=2ahUKEwjIu8H21uXdAhXDF5AKHao8ALAQ6AEwAHoECAkQAQ#v=onepage&q=A%20tecnologia%20digital%20precisou%20de%20uma%20nova%20legisla%C3%A7%C3%A3o%20de%20direitos%20autorais%2C%20o%20chamado%20Ato%20de%20Direitos%20Digitais%20do%20Mil%C3%AAnio&f=false
+ https://repositorio.unesp.br/bitstream/handle/11449/93649/araya_erm_me_mar.pdf;jsessionid=78C2BDE9D15F45E3BA507AF7DB30F225?sequence=1
+ http://www.publicadireito.com.br/artigos/?cod=93c442d40a4e0b6f
+ http://conteudo.pucrs.br/wp-content/uploads/sites/11/2017/03/jessica_jalowitzki_2016_2.pdf
+ https://core.ac.uk/download/pdf/43580992.pdf
+ https://www.direitonet.com.br/artigos/exibir/1907/A-expansao-do-direito-do-autor-no-ambito-internacional
+
+ COISA - UNIVAC I, computador automático universal, o primeiro computador a entrar em linha de produção.
+ https://www1.folha.uol.com.br/folha/informatica/ult124u6520.shtml
+ https://pt.wikipedia.org/wiki/UNIVAC_I
+ https://www.passeidireto.com/arquivo/2819948/historia-da-computacao---3/2
+ https://www.infopedia.pt/$univac
+ http://ptcomputador.com/Ferragens/computer-drives-storage/52727.html
+ https://books.google.com.br/books?id=9LA4DwAAQBAJ&pg=SA5-PA36&lpg=SA5-PA36&dq=univac+i+elei%C3%A7oes+presidenciais&source=bl&ots=abPYQQE6Qj&sig=UOxI4kEVimTwyvpw_C6jiZ9tL6M&hl=pt-BR&sa=X&ved=2ahUKEwijvqm39eXdAhVIxpAKHcmTD5wQ6AEwCXoECAUQAQ#v=onepage&q=univac%20i%20elei%C3%A7oes%20presidenciais&f=false
+ http://webx.ubi.pt/~felippe/texts3/os1oscomp_cap12.pdf
+ https://www.wired.com/2008/11/dayintech-1104/
+ http://www.laifi.com/laifi.php?id_laifi=11590&idC=115960#
