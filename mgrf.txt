@@ -1,0 +1,26 @@
+CAVE - Sala imersiva de realidade virtual (Coisa):
+	------------ FONTES -------------
+	- http://www.cavernadigital.org.br/
+	- http://www.lsi.usp.br/interativos/nrv/caverna.html
+	- https://pt.wikipedia.org/wiki/Cave_Automatic_Virtual_Environment
+
+UNIX (Coisa):
+	------------ FONTES -------------
+	- https://www.tecmundo.com.br/macos/10556-unix-o-pai-de-todos-os-sistemas-operacionais.htm
+	- https://pt.wikipedia.org/wiki/Unix
+	- http://www.unix.org/
+	- http://ninjadolinux.com.br/a-historia-do-unix/
+
+Macintosh (Coisa):
+	------------ FONTES -------------
+	- https://pt.wikipedia.org/wiki/Macintosh
+	- http://www.digital4.net.br/2012/12/o-que-e-macintosh-ou-mac.html
+
+O surgimento da Apple (Evento):
+	------------ FONTES -------------
+	- https://www.tecmundo.com.br/apple/2114-a-historia-da-apple-a-marca-da-maca.htm
+	- https://pt.wikipedia.org/wiki/Apple	
+	- http://www.clickestudante.com/origem-da-apple.html
+	- https://www.infoescola.com/informatica/historia-da-apple/
+
+	
