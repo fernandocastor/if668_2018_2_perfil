@@ -20,6 +20,10 @@ https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/#gref
 https://pt.wikipedia.org/wiki/Cascading_Style_Sheets
 https://tableless.com.br/uma-breve-historia-do-css/
 https://www.weblink.com.br/blog/programacao/o-que-e-css/
+https://developer.mozilla.org/pt-BR/docs/Web/CSS
+https://www.devmedia.com.br/guia/css/38149
+https://developer.mozilla.org/pt-BR/docs/Aprender/CSS/Introduction_to_CSS/como_CSS_funciona
+
 
 
 
