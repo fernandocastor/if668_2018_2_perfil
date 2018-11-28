@@ -1,0 +1,31 @@
+Fontes:
+
+Tim Berners-Lee(Pessoa).
+https://pt.wikipedia.org/wiki/Tim_Berners-Lee
+https://www.forbes.com/100-greatest-business-minds/person/tim-berners-lee
+http://biografiaecuriosidade.blogspot.com/2014/03/tim-berners-lee-o-criador-da-www.html
+https://www.nexojornal.com.br/expresso/2018/03/13/Tim-Berners-Lee-o-criador-da-internet-global.-E-suas-cr%C3%ADticas-%C3%A0-rede-hoje
+
+
+
+Unreal Engine(Coisa).
+https://pt.wikipedia.org/wiki/Unreal_Engine
+https://www.unrealengine.com/en-US/features
+https://saga.art.br/7-informacoes-importantes-sobre-a-unreal-engine/
+
+
+
+GNU/Linux(Coisa).
+https://pt.wikipedia.org/wiki/GNU/Linux
+https://pplware.sapo.pt/linux/top-10-distribuicoes-gnu-linux-mais-populares-em-2018/
+https://imasters.com.br/noticia/desenvolvedores-do-kernel-linux-4-12-adicionaram-mais-de-790-linhas-de-codigo-por-hora
+https://tecnoblog.net/74027/linux-numeros-20-anos/
+https://www.debian.org/releases/stable/mips/ch01s02.html.pt
+
+
+
+Spacewar, primeiro jogo eletrônico de tiro(Coisa).
+https://pt.wikipedia.org/wiki/Spacewar!
+http://contembits.com.br/historia/jogos/1962-Spacewar.aspx
+https://www.syfy.com/syfywire/firsts-spacewar-was-the-worlds-first-video-game
+
