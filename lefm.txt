@@ -1,0 +1,17 @@
+﻿Fontes:
+
+Primeiro uso de CGI no cinema:
+- https://www.empireonline.com/movies/features/history-cgi/
+
+Lancamento do Intel 8086:
+- https://en.wikipedia.org/wiki/Intel_8086
+
+James Gosling:
+- https://pt.wikipedia.org/wiki/James_Gosling
+- https://en.wikipedia.org/wiki/James_Gosling
+- https://www.linkedin.com/in/jamesgosling/?locale=pt_BR
+
+Disquete: 
+- https://pt.wikipedia.org/wiki/Disquete
+- https://en.wikipedia.org/wiki/Floppy_disk
+
