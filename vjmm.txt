@@ -1,0 +1,19 @@
+Descoberta do Heartbleed bug:
+https://www.tecmundo.com.br/internet/53683-como-funciona-o-heartbleed-a-maior-ameaca-atual-da-internet.htm
+http://heartbleed.com/
+https://www.gazetadopovo.com.br/manualdousuario/heartbleed/
+
+Descoberta do Stuxnet, a primeira cyber weapon:
+https://www.tecmundo.com.br/virus/5878-stuxnet-o-virus-da-pesada.htm
+https://pt.wikipedia.org/wiki/Stuxnet
+https://olhardigital.com.br/noticia/stuxnet-o-virus-mais-sofisticado-que-ja-existiu/14204
+
+Revelação das vulnerabilidades Meltdown e Specter:
+https://terminaldeinformacao.com/2018/01/11/voce-conhece-os-virus-meltdown-spectre/
+https://meiobit.com/378206/meltdown-spectre-falhas-criticas-processadores-intel-amd-arm-quase-todo-mundo-foi-afetado/
+http://www.mundodoshackers.com.br/chrome-67-tem-protecao-contra-meltdown-e-spectre
+https://www.nexojornal.com.br/expresso/2018/01/08/O-que-são-Meltdown-e-Spectre-falhas-que-afetam-processadores-do-mundo-todo
+
+Introdução do padrão Video Graphics Array, “VGA”:
+https://www.tecmundo.com.br/video/1802-o-que-e-vga-.htm
+https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/07/o-que-e-cabo-vga-e-para-que-ele-serve.html
