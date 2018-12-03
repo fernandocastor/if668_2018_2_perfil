@@ -1,0 +1,27 @@
+Referências dos tópicos.
+André Ferreira - afss2.
+
+Siri (Coisa)
+https://www.apple.com/br/siri/
+https://tecnoblog.net/sobre/siri/
+https://pt.wikipedia.org/wiki/Siri_(software)
+https://machinelearning.apple.com/2017/08/06/siri-voices.html
+https://machinelearning.apple.com/2018/04/16/personalized-hey-siri.html
+https://www.crunchbase.com/organization/siri#section-acquisition-details
+
+AIBO (Coisa)
+https://www.tecmundo.com.br/produto/133518-cao-robo-sony-aibo-lancado-estados-unidos-us-3-mil.htm
+https://pt.wikipedia.org/wiki/Aibo
+https://www.techopedia.com/definition/14242/artificial-intelligence-robot-aibo
+https://us.aibo.com/
+https://www.aol.com/article/news/2017/11/01/sony-revives-pet-ai-project-with-updated-aibo-robot-dog/23263468/
+
+Paypal (Coisa)
+https://pt.wikipedia.org/wiki/PayPal
+https://www.paypal.com/br/webapps/mpp/home?kw=GBB2C&adgroup=%7badGroup%7d&keyword=paypal&gclid=Cj0KCQjw0dHdBRDEARIsAHjZYYDOnhwu4JezwIfp_ng-xijzlJP5rPEAVPqL_Pt0_5odD_1fdCF5mpkaAlxHEALw_wcB&mpch=ads&rftp=7&srce=cnvr&ercc=27725-222577-52756-1&spid=813104480417869201
+https://www.sitedecuriosidades.com/curiosidade/a-origem-do-paypal.html
+
+Criação da Realidade Aumentada (Avanço Científico)
+http://g1.globo.com/tecnologia/noticia/2016/08/cientista-que-criou-termo-realidade-aumentada-vibra-com-pokemon-go.html
+https://pt.wikipedia.org/wiki/Realidade_aumentada
+http://fluxoconsultoria.poli.ufrj.br/blog/tecnologia-informacao/realidade-aumentada-pokemon-go/
